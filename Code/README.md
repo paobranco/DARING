@@ -29,8 +29,6 @@ In your R installation you also need to install the following additional R packa
   - randomForest
   - e1071
   - earth
-  - rpart
-  - gbm
 
 
   All the above packages with exception of uba, can be installed from CRAN Repository directly as any "normal" R package. Essentially you need to issue the following command within R:
